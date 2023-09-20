@@ -85,7 +85,8 @@ Le agradezco su tiempo y consideración. Estoy emocionado por la posibilidad de 
 </div>  
 ## Datos adicionales
 <div>
- [julio-mu-oz98@hotmail.com](https://outlook.live.com/mail/0/)
+ correo electronico: julio-mu-oz98@hotmail.com
+ numero celular: +57 3143247658
 </div>
 
 <br/>  
