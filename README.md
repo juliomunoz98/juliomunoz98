@@ -82,13 +82,11 @@ Le agradezco su tiempo y consideración. Estoy emocionado por la posibilidad de 
 <a href="https://linkedin.com/in/www.linkedin.com/in/julio-eduardo-muñoz-florez-363b1a23b" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>   
-</div>  
-## Datos adicionales
+<br/>
 <div>
- correo electronico: julio-mu-oz98@hotmail.com
-<br/> 
- numero celular: +57 3143247658
+  Correo electrónico: <a href="mailto:julio-mu-oz98@hotmail.com">julio-mu-oz98@hotmail.com</a>
+  <br/>
+  Número celular: <a href="tel:+573143247658">+57 314 3247658</a>
 </div>
-
 <br/>  
-
+</div>
