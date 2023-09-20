@@ -85,7 +85,7 @@ Le agradezco su tiempo y consideración. Estoy emocionado por la posibilidad de 
 </div>  
 ## Datos adicionales
 <div>
-  <a>julio-mu-oz98@hotmail.com</a>
+  <a href="[julio-mu-oz98@hotmail.com](https://outlook.live.com/mail/0/)">julio-mu-oz98@hotmail.com</a>
 </div>
 
 <br/>  
