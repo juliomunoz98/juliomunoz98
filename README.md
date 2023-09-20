@@ -86,6 +86,7 @@ Le agradezco su tiempo y consideración. Estoy emocionado por la posibilidad de 
 ## Datos adicionales
 <div>
  correo electronico: julio-mu-oz98@hotmail.com
+<br/> 
  numero celular: +57 3143247658
 </div>
 
