@@ -86,7 +86,7 @@ Le agradezco su tiempo y consideración. Estoy emocionado por la posibilidad de 
 <div>
   Correo electrónico: <a href="mailto:julio-mu-oz98@hotmail.com" target="_blank">julio-mu-oz98@hotmail.com</a>
   <br/>
-  Número celular: <a href="https://wa.me/573143247658" target="_blank">+57 314 3247658</a>
+  Número ceular: <a href="https://wa.me/573143247658" target="_blank">+57 314 3247658</a>
 </div>
 <br/>  
 </div>
