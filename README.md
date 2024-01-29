@@ -1,6 +1,6 @@
 ### 
-<div align="center" style="border-radius: 15px; overflow: hidden;">
-<img src="https://vitalflux.com/wp-content/uploads/2014/10/helloworld.png" align="center" style="width: 60%; border-radius: 15px;" />
+<div align="center">
+<img src="https://vitalflux.com/wp-content/uploads/2014/10/helloworld.png" align="center" style="width: 60%" />
 </div>  
   
 
